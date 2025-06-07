@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Inventory Management System
 
 A terminal-based inventory tracking application written in Python. This project allows you to manage products and ingredients, store data persistently using a JSON file, and interact through a simple text-based menu.
@@ -58,7 +57,5 @@ main.py            # The core Python script
 
 Daniel Jarvis  
 Built with passion and Python ☕🐍
-=======
 # inventory-tracker
 A terminal-based inventory tracking system with persistent JSON storage. Built in Python.
->>>>>>> 20ffe5b43d0d4bb64e356aabba60d3e2ffaa354f
